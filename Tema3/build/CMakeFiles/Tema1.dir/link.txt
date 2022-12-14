@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14  -rdynamic CMakeFiles/Tema1.dir/Source.cpp.o  -o Tema1 
